@@ -1,4 +1,4 @@
-I am Oron Lankry, a full-stack developer who creates websites that are not only functional but also visually stunning. With a passion for crafting unique and eye-catching designs, my work is guaranteed to make a lasting impression on any visitor.
+I am Oron, a full-stack developer who creates websites that are not only functional but also visually stunning. With a passion for crafting unique and eye-catching designs, my work is guaranteed to make a lasting impression on any visitor.
 
 From the initial concept to the final product, my attention to detail is unparalleled. My skills in both front-end and back-end development make me a valuable asset to any project.
 
